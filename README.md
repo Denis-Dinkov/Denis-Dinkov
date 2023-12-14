@@ -12,8 +12,4 @@ I'm a Web Developer based in Bulgaria
 [![My Skills](https://skillicons.dev/icons?i=react,vue,redux,js,html,css,scss,bootstrap,nodejs,expressjs,mongodb,mysql)](https://skillicons.dev)
  <br/>
 
- <p>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Denis-Dinkov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
-  <img height="130em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Dinkov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-</p>
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Dinkov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
