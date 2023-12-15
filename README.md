@@ -8,7 +8,7 @@ I'm a Web Developer based in Bulgaria
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 <br/>
 
- ### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=react,vue,redux,js,html,css,scss,bootstrap,nodejs,expressjs,mongodb,mysql)](https://skillicons.dev)
  <br/>
 
