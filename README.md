@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Bulgaria
-* ✉️  You can contact me at [www.linkedin.com/in/denis-dinkov](mailto:www.linkedin.com/in/denis-dinkov)
+* ✉️  You can contact me at www.linkedin.com/in/denis-dinkov
 
 ### Skills
 
