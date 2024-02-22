@@ -5,6 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Bulgaria
+* 🧑‍💻  Interested in web development, web3 daps, and blockhain.
 * ✉️  You can contact me at www.linkedin.com/in/denis-dinkov
 
 ### Skills
