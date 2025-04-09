@@ -3,7 +3,7 @@ Hi 👋 My name is Denis Dinkov
 =============================
 
 Web Developer | Tech Enthusiast | Lifelong Learner
--------------
+
 
 
 *   🌍 Based in Bulgaria
